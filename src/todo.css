@@ -1,0 +1,75 @@
+#for{
+    position: relative;
+    top: 30px;
+    left: 500px;
+    border: 2px solid transparent;
+    width: 600px;
+    height: 150px;
+    border-radius: 10px;
+    background: linear-gradient(25deg, yellow,white);
+
+}
+input{
+    position: relative;
+    left: 100px;
+    top: 55px;
+    width: 250px;
+    height: 35px;
+    border: 1px solid black;
+    border-radius: 10px;
+    line-height: 30px;
+
+}
+#btnn{
+    position: relative;
+    left: 105px;
+    top: 55px;
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 100px;
+    height: 35px;
+    
+}
+#btnn:hover{
+    background-color: yellow;
+}
+h1{
+    position: relative;
+    top: 100px;
+    left: -2px;
+    line-height: 10px;
+    width: 580px;
+    padding-left: 30px;
+    background: linear-gradient(45deg, yellow,white);
+    border-radius: 10px;
+    padding-bottom: 20px;
+    padding-top: 30px;
+}
+h2{
+    text-align: center;
+    position: relative;
+    
+}
+#btn1{
+    position: relative;
+    margin: 0px 5px;
+    border: 1px solid grey;
+    border-radius: 10px;
+    height: 40px;
+    width: 60px;
+    font-size: small;
+}
+
+.btn1{
+    font-weight: 600;
+    background-color: transparent;
+}
+.btn2{
+    font-weight: 600;
+    background-color: transparent;
+}
+.btn2:hover{
+    color: white;
+    background-color: red;
+    border: 2px solid rgb(250, 1, 1);
+}
